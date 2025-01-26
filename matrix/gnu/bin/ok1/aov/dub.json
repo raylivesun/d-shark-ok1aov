@@ -1,0 +1,6 @@
+{
+    "name": "aov",
+    "targetName": "aov",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

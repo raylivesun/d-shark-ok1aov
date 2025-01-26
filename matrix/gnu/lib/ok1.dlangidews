@@ -1,0 +1,9 @@
+{
+    "name": "ok1",
+    "description": null,
+    "projects": {
+        "aov": "aov/dub.json"
+    },
+    "includePath": {
+    }
+}
