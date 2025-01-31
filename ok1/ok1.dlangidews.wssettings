@@ -1,3 +1,577 @@
 {
-    "startupProject": "aov"
+    "startupProject": "aov",
+    "expandedItems": [
+        "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d",
+        "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source",
+        "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/dub.json",
+        "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj"
+    ],
+    "selectedWorkspaceItem": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj/kirquiojmoov8.d",
+    "breakpoints": [
+        {
+            "id": 1,
+            "file": "cakCuj5Shneut.d",
+            "line": 21,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 2,
+            "file": "cakCuj5Shneut.d",
+            "line": 31,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 3,
+            "file": "cakCuj5Shneut.d",
+            "line": 41,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 4,
+            "file": "cakCuj5Shneut.d",
+            "line": 51,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 5,
+            "file": "cakCuj5Shneut.d",
+            "line": 61,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 6,
+            "file": "cakCuj5Shneut.d",
+            "line": 71,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 7,
+            "file": "cakCuj5Shneut.d",
+            "line": 81,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 8,
+            "file": "cakCuj5Shneut.d",
+            "line": 91,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 9,
+            "file": "cakCuj5Shneut.d",
+            "line": 101,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 10,
+            "file": "cakCuj5Shneut.d",
+            "line": 111,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 11,
+            "file": "cakCuj5Shneut.d",
+            "line": 117,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 12,
+            "file": "cakCuj5Shneut.d",
+            "line": 121,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 13,
+            "file": "cakCuj5Shneut.d",
+            "line": 125,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 14,
+            "file": "cakCuj5Shneut.d",
+            "line": 129,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 16,
+            "file": "cakCuj5Shneut.d",
+            "line": 140,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 17,
+            "file": "cakCuj5Shneut.d",
+            "line": 144,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 18,
+            "file": "cakCuj5Shneut.d",
+            "line": 148,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 19,
+            "file": "cakCuj5Shneut.d",
+            "line": 152,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 20,
+            "file": "cakCuj5Shneut.d",
+            "line": 164,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 21,
+            "file": "cakCuj5Shneut.d",
+            "line": 168,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 22,
+            "file": "cakCuj5Shneut.d",
+            "line": 172,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 23,
+            "file": "cakCuj5Shneut.d",
+            "line": 176,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 24,
+            "file": "cakCuj5Shneut.d",
+            "line": 187,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 25,
+            "file": "cakCuj5Shneut.d",
+            "line": 191,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 26,
+            "file": "cakCuj5Shneut.d",
+            "line": 195,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 27,
+            "file": "cakCuj5Shneut.d",
+            "line": 199,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 28,
+            "file": "cakCuj5Shneut.d",
+            "line": 210,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 29,
+            "file": "cakCuj5Shneut.d",
+            "line": 214,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 30,
+            "file": "cakCuj5Shneut.d",
+            "line": 218,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 31,
+            "file": "cakCuj5Shneut.d",
+            "line": 222,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 32,
+            "file": "cakCuj5Shneut.d",
+            "line": 233,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 33,
+            "file": "cakCuj5Shneut.d",
+            "line": 237,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 34,
+            "file": "cakCuj5Shneut.d",
+            "line": 241,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 35,
+            "file": "cakCuj5Shneut.d",
+            "line": 245,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 36,
+            "file": "cakCuj5Shneut.d",
+            "line": 257,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 37,
+            "file": "cakCuj5Shneut.d",
+            "line": 261,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 38,
+            "file": "cakCuj5Shneut.d",
+            "line": 265,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 39,
+            "file": "cakCuj5Shneut.d",
+            "line": 269,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 40,
+            "file": "cakCuj5Shneut.d",
+            "line": 280,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 41,
+            "file": "cakCuj5Shneut.d",
+            "line": 284,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 42,
+            "file": "cakCuj5Shneut.d",
+            "line": 288,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 43,
+            "file": "cakCuj5Shneut.d",
+            "line": 292,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 44,
+            "file": "cakCuj5Shneut.d",
+            "line": 304,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 45,
+            "file": "cakCuj5Shneut.d",
+            "line": 308,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 46,
+            "file": "cakCuj5Shneut.d",
+            "line": 312,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 47,
+            "file": "cakCuj5Shneut.d",
+            "line": 316,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 48,
+            "file": "cakCuj5Shneut.d",
+            "line": 327,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 49,
+            "file": "cakCuj5Shneut.d",
+            "line": 331,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 50,
+            "file": "cakCuj5Shneut.d",
+            "line": 335,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 51,
+            "file": "cakCuj5Shneut.d",
+            "line": 339,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 52,
+            "file": "cakCuj5Shneut.d",
+            "line": 351,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "ÈB      
+            "file": "cakCuj5Shneut.d",
+            "line": 355,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 54,
+            "file": "cakCuj5Shneut.d",
+            "line": 359,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 55,
+            "file": "cakCuj5Shneut.d",
+            "line": 363,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 56,
+            "file": "cakCuj5Shneut.d",
+            "line": 374,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 57,
+            "file": "cakCuj5Shneut.d",
+            "line": 378,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 58,
+            "file": "cakCuj5Shneut.d",
+            "line": 382,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 59,
+            "file": "cakCuj5Shneut.d",
+            "line": 386,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/cakCuj5Shneut.d"
+        },
+        {
+            "id": 61,
+            "file": "ovaohimm.d",
+            "line": 14,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/ovaohimm.d"
+        },
+        {
+            "id": 60,
+            "file": "ovaohimm.d",
+            "line": 37,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/s59d/ovaohimm.d"
+        },
+        {
+            "id": 63,
+            "file": "kirquiojmoov8.d",
+            "line": 30,
+            "enabled": true,
+            "projectName": "aov",
+            "projectFilePath": "source/n3gj/kirquiojmoov8.d"
+        }
+    ],
+    "files": [
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/cakCuj5Shneut.d",
+            "column": 406,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/alirp0ons.d",
+            "column": 40,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/ovaohimm.d",
+            "column": 760,
+            "row": 19
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/rhomghil.d",
+            "column": 51,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/ormistosabs1.d",
+            "column": 1059,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/cyaf0sovfly.d",
+            "column": 991,
+            "row": 4
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/trol20rf.d",
+            "column": 24,
+            "row": 26
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/lymm90rlad.d",
+            "column": 804,
+            "row": 2
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/bedmaccocbubs.d",
+            "column": 1018,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/s59d/orpewb6shlid.d",
+            "column": 1005,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj/ductholv4fid.d",
+            "column": 680,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj/poff30k.d",
+            "column": 63,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj/izarg0quevren.d",
+            "column": 1014,
+            "row": 43
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ok1aov/ok1/aov/source/n3gj/kirquiojmoov8.d",
+            "column": 29,
+            "row": 15
+        }
+    ]
 }

@@ -989,6 +989,7 @@ public static fomeflesh_coolmike_shark delta(const char before, char ReadonlyArr
 	const splices = sortedDiff(before, after, compare);
 	const removed = [];
 	const added = [];
+    
 }
 
 private static fomeflesh_coolmike_shark delta(const char before, char ReadonlyArray, double after, double compare, 

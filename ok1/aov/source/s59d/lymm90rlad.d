@@ -21,7 +21,7 @@ import std.math;
  * @return The first n elements from array when sorted with compare.
  */
 public static freebasic topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -31,7 +31,7 @@ public static freebasic topAsync(const char array, double compare,
 }
 
 private static freebasic topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -41,7 +41,7 @@ private static freebasic topAsync(const char array, double compare,
 }
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -51,7 +51,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -61,7 +61,7 @@ private static freebasic_business topAsync(const char array, double compare,
 }
 
 public static freebasic_overday topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -71,7 +71,7 @@ public static freebasic_overday topAsync(const char array, double compare,
 }
 
 private static freebasic_overday topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -81,7 +81,7 @@ private static freebasic_overday topAsync(const char array, double compare,
 }
 
 public static freebasic_overnight topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -91,7 +91,7 @@ public static freebasic_overnight topAsync(const char array, double compare,
 }
 
 private static freebasic_overnight topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -101,7 +101,7 @@ private static freebasic_overnight topAsync(const char array, double compare,
 }
 
 public static freebasic_topnews topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -111,7 +111,7 @@ public static freebasic_topnews topAsync(const char array, double compare,
 }
 
 private static freebasic_topnews topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -121,7 +121,7 @@ private static freebasic_topnews topAsync(const char array, double compare,
 }
 
 public static freebasic_shark topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -131,7 +131,7 @@ public static freebasic_shark topAsync(const char array, double compare,
 }
 
 private static freebasic_shark topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -141,7 +141,7 @@ private static freebasic_shark topAsync(const char array, double compare,
 }
 
 public static freebasic_market topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -151,7 +151,7 @@ public static freebasic_market topAsync(const char array, double compare,
 }
 
 private static freebasic_market topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -161,7 +161,7 @@ private static freebasic_market topAsync(const char array, double compare,
 }
 
 public static freebasic_coffee topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -171,7 +171,7 @@ public static freebasic_coffee topAsync(const char array, double compare,
 }
 
 private static freebasic_coffee topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -181,7 +181,7 @@ private static freebasic_coffee topAsync(const char array, double compare,
 }
 
 public static freebasic_cokecool topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -191,7 +191,7 @@ public static freebasic_cokecool topAsync(const char array, double compare,
 }
 
 private static freebasic_cokecool topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -201,7 +201,7 @@ private static freebasic_cokecool topAsync(const char array, double compare,
 }
 
 public static freebasic_machines topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -211,7 +211,7 @@ public static freebasic_machines topAsync(const char array, double compare,
 }
 
 private static freebasic_machines topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -221,7 +221,7 @@ private static freebasic_machines topAsync(const char array, double compare,
 }
 
 public static freebasic_script topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -231,7 +231,7 @@ public static freebasic_script topAsync(const char array, double compare,
 }
 
 private static freebasic_script topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -241,7 +241,7 @@ private static freebasic_script topAsync(const char array, double compare,
 }
 
 public static freebasic_fbc topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -251,7 +251,7 @@ public static freebasic_fbc topAsync(const char array, double compare,
 }
 
 private static freebasic_fbc topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -261,7 +261,7 @@ private static freebasic_fbc topAsync(const char array, double compare,
 }
 
 public static freebasic_markets topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -271,7 +271,7 @@ public static freebasic_markets topAsync(const char array, double compare,
 }
 
 private static freebasic_markets topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -281,7 +281,7 @@ private static freebasic_markets topAsync(const char array, double compare,
 }
 
 public static freebasic_topnews_network topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -291,7 +291,7 @@ public static freebasic_topnews_network topAsync(const char array, double compar
 }
 
 private static freebasic_topnews_networks topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -301,7 +301,7 @@ private static freebasic_topnews_networks topAsync(const char array, double comp
 }
 
 public static freebasic_scitech topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -311,7 +311,7 @@ public static freebasic_scitech topAsync(const char array, double compare,
 }
 
 private static freebasic_scitech topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -321,7 +321,7 @@ private static freebasic_scitech topAsync(const char array, double compare,
 }
 
 public static freebasic_flags topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -331,7 +331,7 @@ public static freebasic_flags topAsync(const char array, double compare,
 }
 
 private static freebasic_flags topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -341,7 +341,7 @@ private static freebasic_flags topAsync(const char array, double compare,
 }
 
 public static freebasic_connect topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -351,7 +351,7 @@ public static freebasic_connect topAsync(const char array, double compare,
 }
 
 private static freebasic_connect topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -361,7 +361,7 @@ private static freebasic_connect topAsync(const char array, double compare,
 }
 
 public static freebasic_gpt topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -371,7 +371,7 @@ public static freebasic_gpt topAsync(const char array, double compare,
 }
 
 private static freebasic_gpt topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -381,7 +381,7 @@ private static freebasic_gpt topAsync(const char array, double compare,
 }
 
 public static freebasic_checkbox topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -391,7 +391,7 @@ public static freebasic_checkbox topAsync(const char array, double compare,
 }
 
 private static freebasic_checkbox topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -401,7 +401,7 @@ private static freebasic_checkbox topAsync(const char array, double compare,
 }
 
 public static freebasic_techmarket topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -411,7 +411,7 @@ public static freebasic_techmarket topAsync(const char array, double compare,
 }
 
 private static freebasic_techmarket topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -421,7 +421,7 @@ private static freebasic_techmarket topAsync(const char array, double compare,
 }
 
 public static freebasic_sofybet topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -431,7 +431,7 @@ public static freebasic_sofybet topAsync(const char array, double compare,
 }
 
 private static freebasic_sofybet topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -441,7 +441,7 @@ private static freebasic_sofybet topAsync(const char array, double compare,
 }
 
 public static freebasic_glob topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -451,7 +451,7 @@ public static freebasic_glob topAsync(const char array, double compare,
 }
 
 private static freebasic_glob topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -465,7 +465,7 @@ export class B60
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -475,7 +475,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -492,7 +492,7 @@ export class B61
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -502,7 +502,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -519,7 +519,7 @@ export class B62
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -529,7 +529,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -546,7 +546,7 @@ export class B63
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -556,7 +556,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -573,7 +573,7 @@ export class B64
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -583,7 +583,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -600,7 +600,7 @@ export class B65
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -610,7 +610,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -626,7 +626,7 @@ export class B66
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -636,7 +636,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -653,7 +653,7 @@ export class B67
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -663,7 +663,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -680,7 +680,7 @@ export class B68
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -690,7 +690,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -707,7 +707,7 @@ export class B69
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -717,7 +717,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -734,7 +734,7 @@ export class B70
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -744,7 +744,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -761,7 +761,7 @@ export class B72
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -771,7 +771,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -789,7 +789,7 @@ export class B73
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -799,7 +799,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -816,7 +816,7 @@ export class B74
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -826,7 +826,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -843,7 +843,7 @@ export class B75
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -853,7 +853,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -869,7 +869,7 @@ export class B77
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -879,7 +879,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -895,7 +895,7 @@ export class B78
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -905,7 +905,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -922,7 +922,7 @@ export class B79
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -932,7 +932,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -949,7 +949,7 @@ export class B80
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -959,7 +959,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -976,7 +976,7 @@ export class B81
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -986,7 +986,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1002,7 +1002,7 @@ export class B82
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1012,7 +1012,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1029,7 +1029,7 @@ export class B83
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1039,7 +1039,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1056,7 +1056,7 @@ export class B84
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1066,7 +1066,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1083,7 +1083,7 @@ export class B85
     
 
 public static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}
@@ -1093,7 +1093,7 @@ public static freebasic_business topAsync(const char array, double compare,
 }
 
 private static freebasic_business topAsync(const char array, double compare,
- long a, long b)(ref number1, number2, number3, auto token,  char CancellationToken, double Promise) @nogc {
+ long a, long b)(ref number1, number2, number3, auto token,  char curedlationToken, double Promise) @nogc {
 	if (n == 0) {
 		return Promise.resolve([]);
 	}

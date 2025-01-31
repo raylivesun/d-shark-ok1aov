@@ -17,7 +17,7 @@ import std.math;
  * @return The first n elements from array when sorted with compare.
  */
 public static real home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -27,7 +27,7 @@ public static real home(const char array, char ReadonlyArray, double compare,
 }
 
 private static real home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -37,7 +37,7 @@ private static real home(const char array, char ReadonlyArray, double compare,
 }
 
 public static double home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -47,7 +47,7 @@ public static double home(const char array, char ReadonlyArray, double compare,
 }
 
 private static double home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -57,7 +57,7 @@ private static double home(const char array, char ReadonlyArray, double compare,
 }
 
 public static short home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -67,7 +67,7 @@ public static short home(const char array, char ReadonlyArray, double compare,
 }
 
 private static short home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -77,7 +77,7 @@ private static short home(const char array, char ReadonlyArray, double compare,
 }
 
 public static restore home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -87,7 +87,7 @@ public static restore home(const char array, char ReadonlyArray, double compare,
 }
 
 private static restore home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -97,7 +97,7 @@ private static restore home(const char array, char ReadonlyArray, double compare
 }
 
 public static connect home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -107,7 +107,7 @@ public static connect home(const char array, char ReadonlyArray, double compare,
 }
 
 private static connect home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -117,7 +117,7 @@ private static connect home(const char array, char ReadonlyArray, double compare
 }
 
 public static business home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -127,7 +127,7 @@ public static business home(const char array, char ReadonlyArray, double compare
 }
 
 private static business home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -138,7 +138,7 @@ private static business home(const char array, char ReadonlyArray, double compar
 
 
 public static markets home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -148,7 +148,7 @@ public static markets home(const char array, char ReadonlyArray, double compare,
 }
 
 private static markets home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -159,7 +159,7 @@ private static markets home(const char array, char ReadonlyArray, double compare
 
 
 public static topnews home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -169,7 +169,7 @@ public static topnews home(const char array, char ReadonlyArray, double compare,
 }
 
 private static topnews home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -180,7 +180,7 @@ private static topnews home(const char array, char ReadonlyArray, double compare
 
 
 public static municipals home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -190,7 +190,7 @@ public static municipals home(const char array, char ReadonlyArray, double compa
 }
 
 private static municipals home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -201,7 +201,7 @@ private static municipals home(const char array, char ReadonlyArray, double comp
 
 
 public static scitech home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -211,7 +211,7 @@ public static scitech home(const char array, char ReadonlyArray, double compare,
 }
 
 private static scitech home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -221,7 +221,7 @@ private static scitech home(const char array, char ReadonlyArray, double compare
 }
 
 public static trump home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -231,7 +231,7 @@ public static trump home(const char array, char ReadonlyArray, double compare,
 }
 
 private static trump home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -251,7 +251,7 @@ public static trumpnews home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumpnews home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -261,7 +261,7 @@ private static trumpnews home(const char array, char ReadonlyArray, double compa
 }
 
 public static trumpmarket home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -271,7 +271,7 @@ public static trumpmarket home(const char array, char ReadonlyArray, double comp
 }
 
 private static trumpmarket home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -281,7 +281,7 @@ private static trumpmarket home(const char array, char ReadonlyArray, double com
 }
 
 public static trumpbuss home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -291,7 +291,7 @@ public static trumpbuss home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumpbuss home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -301,7 +301,7 @@ private static trumpbuss home(const char array, char ReadonlyArray, double compa
 }
 
 public static trumpflags home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -311,7 +311,7 @@ public static trumpflags home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpflags home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -321,7 +321,7 @@ private static trumpflags home(const char array, char ReadonlyArray, double comp
 }
 
 public static trumpscript home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -331,7 +331,7 @@ public static trumpscript home(const char array, char ReadonlyArray, double comp
 }
 
 private static trumpscript home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -341,7 +341,7 @@ private static trumpscript home(const char array, char ReadonlyArray, double com
 }
 
 public static trump_platform home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -351,7 +351,7 @@ public static trump_platform home(const char array, char ReadonlyArray, double c
 }
 
 private static trump_platform home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -382,7 +382,7 @@ private static trump_topnews home(const char array, char ReadonlyArray, double c
 }
 
 public static trumpday home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -392,7 +392,7 @@ public static trumpday home(const char array, char ReadonlyArray, double compare
 }
 
 private static trumpday home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -402,7 +402,7 @@ private static trumpday home(const char array, char ReadonlyArray, double compar
 }
 
 public static trumpnight home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -412,7 +412,7 @@ public static trumpnight home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpnight home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -423,7 +423,7 @@ private static trumpnight home(const char array, char ReadonlyArray, double comp
 
 
 public static trumpadmin home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -433,7 +433,7 @@ public static trumpadmin home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpadmin home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -443,7 +443,7 @@ private static trumpadmin home(const char array, char ReadonlyArray, double comp
 }
 
 public static trumplogic home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -453,7 +453,7 @@ public static trumplogic home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumplogic home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -463,7 +463,7 @@ private static trumplogic home(const char array, char ReadonlyArray, double comp
 }
 
 public static trumptech home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -473,7 +473,7 @@ public static trumptech home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumptech home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -483,7 +483,7 @@ private static trumptech home(const char array, char ReadonlyArray, double compa
 }
 
 public static trumpdocument home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -493,7 +493,7 @@ public static trumpdocument home(const char array, char ReadonlyArray, double co
 }
 
 private static trumpdocument home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -503,7 +503,7 @@ private static trumpdocument home(const char array, char ReadonlyArray, double c
 }
 
 public static trumpamerican home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -513,7 +513,7 @@ public static trumpamerican home(const char array, char ReadonlyArray, double co
 }
 
 private static trumpamerican home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -523,7 +523,7 @@ private static trumpamerican home(const char array, char ReadonlyArray, double c
 }
 
 public static trumpshark home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -533,7 +533,7 @@ public static trumpshark home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpshark home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -543,7 +543,7 @@ private static trumpshark home(const char array, char ReadonlyArray, double comp
 }
 
 public static trump_germanic home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -553,7 +553,7 @@ public static trump_germanic home(const char array, char ReadonlyArray, double c
 }
 
 private static trump_germanic home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -563,7 +563,7 @@ private static trump_germanic home(const char array, char ReadonlyArray, double 
 }
 
 public static trump_russian home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -573,7 +573,7 @@ public static trump_russian home(const char array, char ReadonlyArray, double co
 }
 
 private static trump_russian home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -583,7 +583,7 @@ private static trump_russian home(const char array, char ReadonlyArray, double c
 }
 
 public static trump_african home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -593,7 +593,7 @@ public static trump_african home(const char array, char ReadonlyArray, double co
 }
 
 private static trump_african home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -603,7 +603,7 @@ private static trump_african home(const char array, char ReadonlyArray, double c
 }
 
 public static trump_brazil home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -613,7 +613,7 @@ public static trump_brazil home(const char array, char ReadonlyArray, double com
 }
 
 private static trump_brazil home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -623,7 +623,7 @@ private static trump_brazil home(const char array, char ReadonlyArray, double co
 }
 
 public static trump_denmarket home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -633,7 +633,7 @@ public static trump_denmarket home(const char array, char ReadonlyArray, double 
 }
 
 private static trump_denmarket home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -643,7 +643,7 @@ private static trump_denmarket home(const char array, char ReadonlyArray, double
 }
 
 public static trump_network home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -653,7 +653,7 @@ public static trump_network home(const char array, char ReadonlyArray, double co
 }
 
 private static trump_network home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -664,7 +664,7 @@ private static trump_network home(const char array, char ReadonlyArray, double c
 
 
 public static trump_buisness home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -674,7 +674,7 @@ public static trump_buisness home(const char array, char ReadonlyArray, double c
 }
 
 private static trump_buisness home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -694,7 +694,7 @@ public static trumpworks home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpworks home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -704,7 +704,7 @@ private static trumpworks home(const char array, char ReadonlyArray, double comp
 }
 
 public static trumpjobs home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -714,7 +714,7 @@ public static trumpjobs home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumpjobs home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[])@nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -724,7 +724,7 @@ private static trumpjobs home(const char array, char ReadonlyArray, double compa
 }
 
 public static trumphost home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -734,7 +734,7 @@ public static trumphost home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumphost home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -744,7 +744,7 @@ private static trumphost home(const char array, char ReadonlyArray, double compa
 }
 
 public static trumpfamily home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -754,7 +754,7 @@ public static trumpfamily home(const char array, char ReadonlyArray, double comp
 }
 
 private static trumpfamily home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -764,7 +764,7 @@ private static trumpfamily home(const char array, char ReadonlyArray, double com
 }
 
 public static trumpsociety home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -774,7 +774,7 @@ public static trumpsociety home(const char array, char ReadonlyArray, double com
 }
 
 private static trumpsociety home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -784,7 +784,7 @@ private static trumpsociety home(const char array, char ReadonlyArray, double co
 }
 
 public static trump_unit_nation home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -794,7 +794,7 @@ public static trump_unit_nation home(const char array, char ReadonlyArray, doubl
 }
 
 private static trump_unit_nation home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -804,7 +804,7 @@ private static trump_unit_nation home(const char array, char ReadonlyArray, doub
 }
 
 public static trumpword home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -814,7 +814,7 @@ public static trumpword home(const char array, char ReadonlyArray, double compar
 }
 
 private static trumpword home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -825,7 +825,7 @@ private static trumpword home(const char array, char ReadonlyArray, double compa
 
 
 public static trump_firework home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -835,7 +835,7 @@ public static trump_firework home(const char array, char ReadonlyArray, double c
 }
 
 private static trump_firework home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -845,7 +845,7 @@ private static trump_firework home(const char array, char ReadonlyArray, double 
 }
 
 public static trump_christian home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -855,7 +855,7 @@ public static trump_christian home(const char array, char ReadonlyArray, double 
 }
 
 private static trump_christian home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -865,7 +865,7 @@ private static trump_christian home(const char array, char ReadonlyArray, double
 }
 
 public static trumprains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -875,7 +875,7 @@ public static trumprains home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumprains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -885,7 +885,7 @@ private static trumprains home(const char array, char ReadonlyArray, double comp
 }
 
 public static trump_day_rains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -895,7 +895,7 @@ public static trump_day_rains home(const char array, char ReadonlyArray, double 
 }
 
 private static trump_day_rains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -905,7 +905,7 @@ private static trump_day_rains home(const char array, char ReadonlyArray, double
 }
 
 public static trump_night_rains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -915,7 +915,7 @@ public static trump_night_rains home(const char array, char ReadonlyArray, doubl
 }
 
 private static trump_night_rains home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -925,7 +925,7 @@ private static trump_night_rains home(const char array, char ReadonlyArray, doub
 }
 
 public static trump_rains_tempested home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -935,7 +935,7 @@ public static trump_rains_tempested home(const char array, char ReadonlyArray, d
 }
 
 private static trump_rains_tempested home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -945,7 +945,7 @@ private static trump_rains_tempested home(const char array, char ReadonlyArray, 
 }
 
 public static trump_connection home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -955,7 +955,7 @@ public static trump_connection home(const char array, char ReadonlyArray, double
 }
 
 private static trump_connection home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -965,7 +965,7 @@ private static trump_connection home(const char array, char ReadonlyArray, doubl
 }
 
 public static trumpstates home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -975,7 +975,7 @@ public static trumpstates home(const char array, char ReadonlyArray, double comp
 }
 
 private static trumpstates home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -985,7 +985,7 @@ private static trumpstates home(const char array, char ReadonlyArray, double com
 }
 
 public static trump_municipals home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -995,7 +995,7 @@ public static trump_municipals home(const char array, char ReadonlyArray, double
 }
 
 private static trump_municipals home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -1005,7 +1005,7 @@ private static trump_municipals home(const char array, char ReadonlyArray, doubl
 }
 
 public static trumpstart home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -1015,7 +1015,7 @@ public static trumpstart home(const char array, char ReadonlyArray, double compa
 }
 
 private static trumpstart home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -1025,7 +1025,7 @@ private static trumpstart home(const char array, char ReadonlyArray, double comp
 }
 
 public static trump_network home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[]) @nogc {
 	if (n == 0) {
 		return [];
 	}
@@ -1035,7 +1035,7 @@ public static trump_network home(const char array, char ReadonlyArray, double co
 }
 
 private static trump_network home(const char array, char ReadonlyArray, double compare,
- double a, double b) (ref number1, number2, T[]) {
+ double a, double b) (ref number1, number2, T[])@nogc {
 	if (n == 0) {
 		return [];
 	}
